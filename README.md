@@ -1,1 +1,1 @@
-# g1jenny.gitbub.io
+# g1jenny.github.io
